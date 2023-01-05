@@ -1,0 +1,13 @@
+.ag-theme-balham {
+  /* disable all borders */
+  --ag-borders: none;
+  /* then add back a border between rows */
+  --ag-borders-row: dashed 5px;
+  --ag-row-border-color: rgb(150, 150, 200);
+  /*customise header*/
+  --ag-header-height: 30px;
+  --ag-header-foreground-color: white;
+  --ag-header-background-color: rgb(63, 166, 180);
+
+}
+
